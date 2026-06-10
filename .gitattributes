@@ -1,0 +1,2 @@
+# .m is ambiguous (MATLAB vs Objective-C); force MATLAB for GitHub language detection
+*.m linguist-language=MATLAB

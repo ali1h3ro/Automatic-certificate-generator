@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Archives
+*.rar
+*.zip
+
+# MATLAB
+*.asv
+*.m~
+*.mex*
+*.o
+*.slxc
+*.autosave
+slprj/
+octave-workspace
